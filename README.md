@@ -1,2 +1,2 @@
-# D2I
-D2I dataset
+# D2O
+D2O dataset
